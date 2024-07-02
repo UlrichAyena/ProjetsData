@@ -1,0 +1,13 @@
+services:
+  - name: main_fast
+    type: web
+    runtime: python
+    buildCommand: pip install -r requirements.txt
+    startCommand: uvicorn app.main_fast:app --host 0.0.0.0 --port 10000
+    envVars:
+      - key: PORT
+        value: 8000
+
+
+
+
