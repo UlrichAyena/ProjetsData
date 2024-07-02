@@ -1,0 +1,469 @@
+ident;type_client;tranche_age;statut_matrimonial;anciennete;tranche_epargne;profession;cumul_credit;salaire;credit_demande
+I001;bon client;plus de 50 ans;celibataire;anc. plus   12 ans;pas d'epargne;employe;de 40 a 100  debits;765;700
+I002;bon client;moins de 23 ans;celibataire;anc. 1 an  ou moins;pas d'epargne;employe;moins de 40  debits;465;465
+I003;mauvais client;de 23 a 40 ans;veuf;anc. de 6  a 12 ans;pas d'epargne;employe;de 40 a 100  debits;680;555
+I004;bon client;de 23 a 40 ans;divorce;anc. de 1  a 4 ans;moins de 10KF epargn;employe;de 40 a 100  debits;560;640
+I005;bon client;moins de 23 ans;celibataire;anc. de 6  a 12 ans;pas d'epargne;employe;moins de 40  debits;575;570
+I006;bon client;de 23 a 40 ans;celibataire;anc. 1 an  ou moins;pas d'epargne;employe;moins de 40  debits;525;475
+I007;bon client;plus de 50 ans;marie;anc. de 6  a 12 ans;pas d'epargne;cadre;moins de 40  debits;925;715
+I008;bon client;plus de 50 ans;marie;anc. plus   12 ans;pas d'epargne;cadre;moins de 40  debits;925;735
+I009;bon client;de 40 a 50 ans;celibataire;anc. de 1  a 4 ans;pas d'epargne;employe;plus de 100  debits;565;360
+I010;bon client;plus de 50 ans;celibataire;anc. de 4  a 6 ans;pas d'epargne;employe;de 40 a 100  debits;635;605
+I011;bon client;plus de 50 ans;marie;anc. plus   12 ans;pas d'epargne;employe;de 40 a 100  debits;795;710
+I012;bon client;de 40 a 50 ans;marie;anc. 1 an  ou moins;moins de 10KF epargn;cadre;moins de 40  debits;595;555
+I013;bon client;de 23 a 40 ans;celibataire;anc. de 4  a 6 ans;pas d'epargne;autre;de 40 a 100  debits;430;430
+I014;bon client;de 23 a 40 ans;marie;anc. de 6  a 12 ans;pas d'epargne;employe;de 40 a 100  debits;775;620
+I015;bon client;de 40 a 50 ans;divorce;anc. de 4  a 6 ans;moins de 10KF epargn;cadre;plus de 100  debits;715;530
+I016;mauvais client;de 40 a 50 ans;divorce;anc. de 6  a 12 ans;pas d'epargne;employe;de 40 a 100  debits;650;505
+I017;bon client;plus de 50 ans;celibataire;anc. plus   12 ans;pas d'epargne;autre;moins de 40  debits;550;730
+I018;mauvais client;plus de 50 ans;veuf;anc. plus   12 ans;pas d'epargne;autre;de 40 a 100  debits;630;520
+I019;bon client;plus de 50 ans;marie;anc. de 4  a 6 ans;pas d'epargne;employe;moins de 40  debits;785;630
+I020;bon client;plus de 50 ans;marie;anc. de 4  a 6 ans;moins de 10KF epargn;employe;moins de 40  debits;665;790
+I021;bon client;de 40 a 50 ans;marie;anc. de 1  a 4 ans;moins de 10KF epargn;employe;de 40 a 100  debits;570;545
+I022;bon client;de 23 a 40 ans;celibataire;anc. plus   12 ans;pas d'epargne;employe;plus de 100  debits;535;480
+I023;bon client;de 23 a 40 ans;celibataire;anc. de 6  a 12 ans;pas d'epargne;employe;plus de 100  debits;590;295
+I024;bon client;de 40 a 50 ans;marie;anc. de 6  a 12 ans;de 10 a 100KF epargn;cadre;plus de 100  debits;820;780
+I025;mauvais client;de 23 a 40 ans;marie;anc. de 4  a 6 ans;pas d'epargne;employe;plus de 100  debits;325;345
+I026;bon client;de 40 a 50 ans;marie;anc. 1 an  ou moins;pas d'epargne;employe;moins de 40  debits;575;500
+I027;mauvais client;de 40 a 50 ans;celibataire;anc. plus   12 ans;pas d'epargne;employe;plus de 100  debits;655;500
+I028;bon client;de 23 a 40 ans;marie;anc. de 4  a 6 ans;pas d'epargne;employe;de 40 a 100  debits;450;395
+I029;bon client;de 23 a 40 ans;marie;anc. plus   12 ans;moins de 10KF epargn;employe;plus de 100  debits;730;530
+I030;bon client;plus de 50 ans;marie;anc. de 6  a 12 ans;pas d'epargne;employe;de 40 a 100  debits;880;690
+I031;bon client;de 40 a 50 ans;celibataire;anc. 1 an  ou moins;pas d'epargne;autre;de 40 a 100  debits;510;500
+I032;mauvais client;plus de 50 ans;divorce;anc. plus   12 ans;moins de 10KF epargn;cadre;plus de 100  debits;765;565
+I033;bon client;de 40 a 50 ans;marie;anc. plus   12 ans;pas d'epargne;employe;de 40 a 100  debits;795;690
+I034;bon client;moins de 23 ans;marie;anc. de 1  a 4 ans;de 10 a 100KF epargn;autre;de 40 a 100  debits;280;650
+I035;bon client;de 23 a 40 ans;marie;anc. plus   12 ans;plus de 100KF epargn;employe;moins de 40  debits;780;960
+I036;bon client;de 40 a 50 ans;celibataire;anc. 1 an  ou moins;plus de 100KF epargn;employe;plus de 100  debits;680;715
+I037;bon client;de 40 a 50 ans;divorce;anc. plus   12 ans;pas d'epargne;cadre;moins de 40  debits;820;710
+I038;bon client;moins de 23 ans;marie;anc. de 4  a 6 ans;de 10 a 100KF epargn;cadre;de 40 a 100  debits;705;650
+I039;bon client;de 23 a 40 ans;celibataire;anc. 1 an  ou moins;pas d'epargne;employe;de 40 a 100  debits;550;415
+I040;bon client;de 23 a 40 ans;celibataire;anc. plus   12 ans;moins de 10KF epargn;cadre;moins de 40  debits;680;815
+I041;bon client;de 40 a 50 ans;marie;anc. plus   12 ans;pas d'epargne;employe;moins de 40  debits;675;735
+I042;bon client;plus de 50 ans;marie;anc. plus   12 ans;pas d'epargne;employe;plus de 100  debits;815;545
+I043;bon client;plus de 50 ans;marie;anc. de 6  a 12 ans;pas d'epargne;cadre;de 40 a 100  debits;875;625
+I044;bon client;de 40 a 50 ans;marie;anc. plus   12 ans;pas d'epargne;employe;moins de 40  debits;710;665
+I045;bon client;plus de 50 ans;divorce;anc. plus   12 ans;de 10 a 100KF epargn;cadre;moins de 40  debits;770;890
+I046;bon client;de 40 a 50 ans;marie;anc. 1 an  ou moins;pas d'epargne;cadre;de 40 a 100  debits;735;490
+I047;bon client;de 40 a 50 ans;divorce;anc. 1 an  ou moins;moins de 10KF epargn;employe;de 40 a 100  debits;590;570
+I048;mauvais client;de 23 a 40 ans;divorce;anc. 1 an  ou moins;pas d'epargne;employe;moins de 40  debits;580;465
+I049;bon client;de 40 a 50 ans;celibataire;anc. plus   12 ans;pas d'epargne;autre;plus de 100  debits;580;620
+I050;bon client;de 23 a 40 ans;marie;anc. de 6  a 12 ans;de 10 a 100KF epargn;autre;de 40 a 100  debits;570;745
+I051;mauvais client;de 23 a 40 ans;marie;anc. 1 an  ou moins;pas d'epargne;employe;de 40 a 100  debits;595;370
+I052;bon client;de 23 a 40 ans;celibataire;anc. de 1  a 4 ans;pas d'epargne;autre;de 40 a 100  debits;110;480
+I053;bon client;de 23 a 40 ans;celibataire;anc. 1 an  ou moins;pas d'epargne;autre;de 40 a 100  debits;370;510
+I054;bon client;de 40 a 50 ans;marie;anc. de 6  a 12 ans;pas d'epargne;employe;plus de 100  debits;775;520
+I055;bon client;plus de 50 ans;marie;anc. plus   12 ans;plus de 100KF epargn;cadre;de 40 a 100  debits;850;890
+I056;bon client;plus de 50 ans;marie;anc. 1 an  ou moins;pas d'epargne;employe;de 40 a 100  debits;845;545
+I057;bon client;plus de 50 ans;divorce;anc. de 1  a 4 ans;pas d'epargne;cadre;moins de 40  debits;655;575
+I058;bon client;de 23 a 40 ans;celibataire;anc. de 4  a 6 ans;moins de 10KF epargn;employe;de 40 a 100  debits;610;560
+I059;bon client;plus de 50 ans;marie;anc. plus   12 ans;de 10 a 100KF epargn;cadre;plus de 100  debits;890;805
+I060;mauvais client;de 40 a 50 ans;marie;anc. plus   12 ans;moins de 10KF epargn;employe;plus de 100  debits;760;775
+I061;bon client;plus de 50 ans;divorce;anc. plus   12 ans;moins de 10KF epargn;autre;de 40 a 100  debits;485;790
+I062;bon client;de 23 a 40 ans;celibataire;anc. plus   12 ans;moins de 10KF epargn;employe;de 40 a 100  debits;650;705
+I063;mauvais client;plus de 50 ans;marie;anc. de 1  a 4 ans;pas d'epargne;employe;plus de 100  debits;590;375
+I064;bon client;plus de 50 ans;marie;anc. plus   12 ans;pas d'epargne;cadre;plus de 100  debits;870;480
+I065;bon client;de 23 a 40 ans;marie;anc. 1 an  ou moins;pas d'epargne;cadre;moins de 40  debits;590;480
+I066;bon client;moins de 23 ans;celibataire;anc. 1 an  ou moins;moins de 10KF epargn;cadre;moins de 40  debits;665;505
+I067;bon client;de 40 a 50 ans;marie;anc. plus   12 ans;plus de 100KF epargn;autre;de 40 a 100  debits;860;920
+I068;bon client;de 40 a 50 ans;marie;anc. 1 an  ou moins;pas d'epargne;employe;de 40 a 100  debits;770;460
+I069;bon client;de 23 a 40 ans;marie;anc. de 4  a 6 ans;pas d'epargne;employe;moins de 40  debits;675;620
+I070;bon client;plus de 50 ans;celibataire;anc. 1 an  ou moins;moins de 10KF epargn;autre;de 40 a 100  debits;720;565
+I071;bon client;de 40 a 50 ans;marie;anc. 1 an  ou moins;pas d'epargne;employe;moins de 40  debits;600;520
+I072;mauvais client;de 40 a 50 ans;marie;anc. plus   12 ans;de 10 a 100KF epargn;employe;plus de 100  debits;860;850
+I073;bon client;de 40 a 50 ans;divorce;anc. 1 an  ou moins;moins de 10KF epargn;employe;moins de 40  debits;440;680
+I074;bon client;de 23 a 40 ans;marie;anc. plus   12 ans;pas d'epargne;employe;moins de 40  debits;675;660
+I075;bon client;de 23 a 40 ans;divorce;anc. 1 an  ou moins;pas d'epargne;employe;moins de 40  debits;630;465
+I076;bon client;de 40 a 50 ans;celibataire;anc. de 4  a 6 ans;de 10 a 100KF epargn;cadre;de 40 a 100  debits;485;710
+I077;bon client;plus de 50 ans;marie;anc. de 6  a 12 ans;pas d'epargne;employe;moins de 40  debits;820;735
+I078;bon client;de 40 a 50 ans;marie;anc. de 1  a 4 ans;pas d'epargne;cadre;moins de 40  debits;785;575
+I079;mauvais client;de 23 a 40 ans;celibataire;anc. 1 an  ou moins;pas d'epargne;employe;moins de 40  debits;305;265
+I080;bon client;de 40 a 50 ans;marie;anc. plus   12 ans;pas d'epargne;employe;moins de 40  debits;805;765
+I081;bon client;plus de 50 ans;marie;anc. de 4  a 6 ans;pas d'epargne;employe;plus de 100  debits;805;465
+I082;bon client;de 23 a 40 ans;celibataire;anc. de 6  a 12 ans;moins de 10KF epargn;cadre;moins de 40  debits;665;770
+I083;bon client;de 23 a 40 ans;marie;anc. plus   12 ans;pas d'epargne;employe;de 40 a 100  debits;815;670
+I084;bon client;de 40 a 50 ans;marie;anc. plus   12 ans;moins de 10KF epargn;employe;moins de 40  debits;815;910
+I085;mauvais client;plus de 50 ans;marie;anc. plus   12 ans;de 10 a 100KF epargn;autre;plus de 100  debits;420;810
+I086;bon client;de 40 a 50 ans;celibataire;anc. plus   12 ans;pas d'epargne;employe;de 40 a 100  debits;670;665
+I087;bon client;de 40 a 50 ans;marie;anc. de 6  a 12 ans;pas d'epargne;employe;de 40 a 100  debits;775;655
+I088;bon client;de 23 a 40 ans;marie;anc. de 6  a 12 ans;pas d'epargne;employe;moins de 40  debits;660;725
+I089;bon client;plus de 50 ans;veuf;anc. de 4  a 6 ans;pas d'epargne;cadre;plus de 100  debits;635;315
+I090;mauvais client;de 40 a 50 ans;marie;anc. de 1  a 4 ans;pas d'epargne;employe;plus de 100  debits;600;285
+I091;mauvais client;de 23 a 40 ans;divorce;anc. 1 an  ou moins;moins de 10KF epargn;employe;plus de 100  debits;425;215
+I092;bon client;de 40 a 50 ans;marie;anc. 1 an  ou moins;pas d'epargne;autre;plus de 100  debits;480;425
+I093;mauvais client;moins de 23 ans;celibataire;anc. 1 an  ou moins;pas d'epargne;autre;plus de 100  debits;390;100
+I094;bon client;plus de 50 ans;veuf;anc. plus   12 ans;pas d'epargne;cadre;plus de 100  debits;830;465
+I095;mauvais client;moins de 23 ans;celibataire;anc. de 6  a 12 ans;pas d'epargne;employe;de 40 a 100  debits;600;585
+I096;bon client;plus de 50 ans;marie;anc. de 4  a 6 ans;moins de 10KF epargn;employe;de 40 a 100  debits;730;660
+I097;mauvais client;plus de 50 ans;veuf;anc. de 1  a 4 ans;pas d'epargne;employe;de 40 a 100  debits;585;520
+I098;bon client;de 40 a 50 ans;divorce;anc. 1 an  ou moins;de 10 a 100KF epargn;employe;moins de 40  debits;650;725
+I099;bon client;de 40 a 50 ans;marie;anc. plus   12 ans;pas d'epargne;employe;de 40 a 100  debits;690;660
+I100;bon client;moins de 23 ans;celibataire;anc. de 1  a 4 ans;pas d'epargne;employe;moins de 40  debits;520;490
+I101;bon client;de 23 a 40 ans;celibataire;anc. de 6  a 12 ans;moins de 10KF epargn;autre;plus de 100  debits;620;620
+I102;mauvais client;de 23 a 40 ans;marie;anc. de 1  a 4 ans;pas d'epargne;employe;plus de 100  debits;730;315
+I103;bon client;de 23 a 40 ans;celibataire;anc. 1 an  ou moins;pas d'epargne;employe;de 40 a 100  debits;475;465
+I104;bon client;plus de 50 ans;marie;anc. plus   12 ans;pas d'epargne;employe;de 40 a 100  debits;770;610
+I105;bon client;de 23 a 40 ans;celibataire;anc. de 4  a 6 ans;pas d'epargne;autre;de 40 a 100  debits;565;460
+I106;bon client;de 40 a 50 ans;marie;anc. 1 an  ou moins;pas d'epargne;autre;de 40 a 100  debits;680;455
+I107;bon client;de 23 a 40 ans;marie;anc. de 4  a 6 ans;pas d'epargne;employe;plus de 100  debits;595;425
+I108;bon client;moins de 23 ans;celibataire;anc. de 6  a 12 ans;pas d'epargne;employe;moins de 40  debits;620;560
+I109;bon client;de 40 a 50 ans;marie;anc. plus   12 ans;de 10 a 100KF epargn;employe;plus de 100  debits;780;835
+I110;mauvais client;moins de 23 ans;marie;anc. 1 an  ou moins;pas d'epargne;autre;plus de 100  debits;115;195
+I111;bon client;plus de 50 ans;marie;anc. plus   12 ans;pas d'epargne;employe;moins de 40  debits;785;770
+I112;mauvais client;de 23 a 40 ans;marie;anc. de 4  a 6 ans;pas d'epargne;employe;de 40 a 100  debits;650;525
+I113;bon client;plus de 50 ans;celibataire;anc. plus   12 ans;pas d'epargne;employe;de 40 a 100  debits;780;700
+I114;bon client;de 23 a 40 ans;marie;anc. 1 an  ou moins;pas d'epargne;autre;moins de 40  debits;565;500
+I115;bon client;plus de 50 ans;marie;anc. de 1  a 4 ans;pas d'epargne;autre;moins de 40  debits;650;550
+I116;bon client;de 40 a 50 ans;marie;anc. plus   12 ans;pas d'epargne;cadre;de 40 a 100  debits;860;670
+I117;bon client;moins de 23 ans;marie;anc. plus   12 ans;pas d'epargne;autre;de 40 a 100  debits;630;615
+I118;bon client;de 40 a 50 ans;marie;anc. de 6  a 12 ans;plus de 100KF epargn;cadre;moins de 40  debits;740;925
+I119;bon client;de 23 a 40 ans;celibataire;anc. de 6  a 12 ans;pas d'epargne;employe;moins de 40  debits;640;685
+I120;bon client;de 23 a 40 ans;celibataire;anc. de 6  a 12 ans;pas d'epargne;cadre;moins de 40  debits;700;650
+I121;bon client;de 23 a 40 ans;divorce;anc. plus   12 ans;de 10 a 100KF epargn;employe;moins de 40  debits;720;900
+I122;bon client;de 23 a 40 ans;marie;anc. de 4  a 6 ans;pas d'epargne;cadre;moins de 40  debits;785;615
+I123;bon client;plus de 50 ans;divorce;anc. de 6  a 12 ans;pas d'epargne;employe;moins de 40  debits;760;730
+I124;bon client;moins de 23 ans;marie;anc. de 4  a 6 ans;moins de 10KF epargn;employe;moins de 40  debits;725;670
+I125;mauvais client;de 23 a 40 ans;celibataire;anc. 1 an  ou moins;pas d'epargne;employe;plus de 100  debits;580;225
+I126;bon client;de 40 a 50 ans;marie;anc. 1 an  ou moins;pas d'epargne;autre;de 40 a 100  debits;545;495
+I127;bon client;moins de 23 ans;marie;anc. plus   12 ans;pas d'epargne;cadre;de 40 a 100  debits;815;625
+I128;bon client;de 40 a 50 ans;celibataire;anc. de 6  a 12 ans;pas d'epargne;employe;de 40 a 100  debits;670;555
+I129;mauvais client;de 23 a 40 ans;marie;anc. plus   12 ans;pas d'epargne;employe;plus de 100  debits;680;520
+I130;bon client;de 23 a 40 ans;marie;anc. 1 an  ou moins;pas d'epargne;employe;de 40 a 100  debits;645;490
+I131;bon client;de 23 a 40 ans;celibataire;anc. de 4  a 6 ans;de 10 a 100KF epargn;employe;plus de 100  debits;670;680
+I132;bon client;de 23 a 40 ans;marie;anc. de 6  a 12 ans;pas d'epargne;cadre;moins de 40  debits;685;690
+I133;mauvais client;moins de 23 ans;celibataire;anc. 1 an  ou moins;pas d'epargne;employe;de 40 a 100  debits;445;420
+I134;bon client;de 23 a 40 ans;celibataire;anc. de 4  a 6 ans;pas d'epargne;autre;de 40 a 100  debits;410;500
+I135;bon client;de 23 a 40 ans;marie;anc. de 6  a 12 ans;pas d'epargne;autre;moins de 40  debits;780;660
+I136;bon client;de 23 a 40 ans;celibataire;anc. de 4  a 6 ans;pas d'epargne;employe;de 40 a 100  debits;620;500
+I137;bon client;de 23 a 40 ans;celibataire;anc. 1 an  ou moins;pas d'epargne;employe;de 40 a 100  debits;695;440
+I138;bon client;de 40 a 50 ans;celibataire;anc. de 6  a 12 ans;de 10 a 100KF epargn;employe;plus de 100  debits;605;775
+I139;bon client;de 23 a 40 ans;celibataire;anc. de 6  a 12 ans;pas d'epargne;autre;plus de 100  debits;740;505
+I140;bon client;de 23 a 40 ans;marie;anc. 1 an  ou moins;plus de 100KF epargn;autre;moins de 40  debits;355;795
+I141;bon client;de 23 a 40 ans;celibataire;anc. de 6  a 12 ans;moins de 10KF epargn;cadre;plus de 100  debits;635;530
+I142;mauvais client;de 23 a 40 ans;divorce;anc. 1 an  ou moins;moins de 10KF epargn;employe;plus de 100  debits;545;380
+I143;bon client;de 40 a 50 ans;divorce;anc. plus   12 ans;pas d'epargne;employe;moins de 40  debits;615;700
+I144;bon client;de 40 a 50 ans;celibataire;anc. plus   12 ans;pas d'epargne;employe;plus de 100  debits;690;500
+I145;bon client;moins de 23 ans;marie;anc. 1 an  ou moins;pas d'epargne;autre;moins de 40  debits;760;555
+I146;bon client;de 23 a 40 ans;marie;anc. de 6  a 12 ans;de 10 a 100KF epargn;cadre;plus de 100  debits;710;760
+I147;mauvais client;de 23 a 40 ans;celibataire;anc. de 1  a 4 ans;moins de 10KF epargn;autre;plus de 100  debits;525;380
+I148;bon client;plus de 50 ans;celibataire;anc. plus   12 ans;pas d'epargne;autre;moins de 40  debits;680;665
+I149;bon client;moins de 23 ans;celibataire;anc. 1 an  ou moins;pas d'epargne;employe;moins de 40  debits;385;410
+I150;bon client;moins de 23 ans;celibataire;anc. de 6  a 12 ans;pas d'epargne;employe;de 40 a 100  debits;535;495
+I151;bon client;plus de 50 ans;marie;anc. plus   12 ans;pas d'epargne;employe;moins de 40  debits;860;770
+I152;bon client;de 23 a 40 ans;marie;anc. 1 an  ou moins;pas d'epargne;autre;moins de 40  debits;525;500
+I153;bon client;plus de 50 ans;celibataire;anc. de 6  a 12 ans;moins de 10KF epargn;employe;moins de 40  debits;675;815
+I154;bon client;de 23 a 40 ans;celibataire;anc. de 6  a 12 ans;pas d'epargne;employe;moins de 40  debits;535;650
+I155;bon client;de 23 a 40 ans;marie;anc. de 6  a 12 ans;de 10 a 100KF epargn;employe;de 40 a 100  debits;760;760
+I156;mauvais client;de 23 a 40 ans;divorce;anc. de 6  a 12 ans;pas d'epargne;employe;moins de 40  debits;695;660
+I157;mauvais client;moins de 23 ans;marie;anc. de 4  a 6 ans;pas d'epargne;employe;de 40 a 100  debits;635;465
+I158;mauvais client;de 23 a 40 ans;celibataire;anc. de 6  a 12 ans;pas d'epargne;employe;de 40 a 100  debits;600;610
+I159;bon client;plus de 50 ans;marie;anc. 1 an  ou moins;pas d'epargne;employe;de 40 a 100  debits;820;515
+I160;bon client;de 40 a 50 ans;marie;anc. de 4  a 6 ans;pas d'epargne;cadre;moins de 40  debits;860;635
+I161;bon client;plus de 50 ans;celibataire;anc. 1 an  ou moins;pas d'epargne;employe;de 40 a 100  debits;680;520
+I162;mauvais client;plus de 50 ans;divorce;anc. de 1  a 4 ans;pas d'epargne;employe;de 40 a 100  debits;560;470
+I163;bon client;de 23 a 40 ans;celibataire;anc. plus   12 ans;pas d'epargne;employe;moins de 40  debits;635;705
+I164;bon client;moins de 23 ans;celibataire;anc. 1 an  ou moins;moins de 10KF epargn;autre;de 40 a 100  debits;350;465
+I165;bon client;plus de 50 ans;marie;anc. plus   12 ans;pas d'epargne;employe;moins de 40  debits;945;770
+I166;bon client;plus de 50 ans;marie;anc. plus   12 ans;de 10 a 100KF epargn;employe;moins de 40  debits;740;945
+I167;bon client;moins de 23 ans;celibataire;anc. de 1  a 4 ans;moins de 10KF epargn;autre;moins de 40  debits;325;615
+I168;bon client;de 23 a 40 ans;celibataire;anc. de 1  a 4 ans;pas d'epargne;autre;moins de 40  debits;380;460
+I169;mauvais client;moins de 23 ans;celibataire;anc. 1 an  ou moins;pas d'epargne;employe;de 40 a 100  debits;410;420
+I170;bon client;plus de 50 ans;marie;anc. de 6  a 12 ans;pas d'epargne;employe;de 40 a 100  debits;680;660
+I171;bon client;de 23 a 40 ans;divorce;anc. 1 an  ou moins;pas d'epargne;autre;moins de 40  debits;325;495
+I172;bon client;de 23 a 40 ans;marie;anc. 1 an  ou moins;pas d'epargne;employe;moins de 40  debits;560;485
+I173;mauvais client;de 23 a 40 ans;marie;anc. 1 an  ou moins;pas d'epargne;autre;moins de 40  debits;465;500
+I174;mauvais client;de 40 a 50 ans;marie;anc. 1 an  ou moins;moins de 10KF epargn;autre;de 40 a 100  debits;455;450
+I175;mauvais client;de 23 a 40 ans;marie;anc. 1 an  ou moins;pas d'epargne;autre;moins de 40  debits;220;445
+I176;bon client;de 23 a 40 ans;marie;anc. de 4  a 6 ans;moins de 10KF epargn;employe;de 40 a 100  debits;655;585
+I177;bon client;de 23 a 40 ans;celibataire;anc. 1 an  ou moins;pas d'epargne;employe;moins de 40  debits;460;505
+I178;bon client;plus de 50 ans;marie;anc. de 6  a 12 ans;de 10 a 100KF epargn;employe;moins de 40  debits;740;910
+I179;bon client;de 40 a 50 ans;marie;anc. 1 an  ou moins;moins de 10KF epargn;autre;moins de 40  debits;485;590
+I180;mauvais client;de 40 a 50 ans;marie;anc. de 4  a 6 ans;pas d'epargne;autre;moins de 40  debits;605;570
+I181;bon client;moins de 23 ans;celibataire;anc. 1 an  ou moins;moins de 10KF epargn;autre;de 40 a 100  debits;250;565
+I182;mauvais client;moins de 23 ans;celibataire;anc. 1 an  ou moins;pas d'epargne;employe;moins de 40  debits;420;410
+I183;bon client;de 40 a 50 ans;divorce;anc. 1 an  ou moins;pas d'epargne;autre;moins de 40  debits;265;550
+I184;bon client;de 40 a 50 ans;marie;anc. de 6  a 12 ans;moins de 10KF epargn;cadre;plus de 100  debits;745;750
+I185;bon client;de 40 a 50 ans;marie;anc. 1 an  ou moins;de 10 a 100KF epargn;autre;de 40 a 100  debits;680;660
+I186;bon client;de 23 a 40 ans;celibataire;anc. 1 an  ou moins;pas d'epargne;employe;moins de 40  debits;710;475
+I187;mauvais client;moins de 23 ans;veuf;anc. 1 an  ou moins;pas d'epargne;autre;plus de 100  debits;390;295
+I188;bon client;de 40 a 50 ans;marie;anc. plus   12 ans;moins de 10KF epargn;autre;de 40 a 100  debits;795;680
+I189;mauvais client;moins de 23 ans;celibataire;anc. 1 an  ou moins;pas d'epargne;autre;moins de 40  debits;560;395
+I190;bon client;moins de 23 ans;celibataire;anc. 1 an  ou moins;pas d'epargne;autre;moins de 40  debits;355;410
+I191;bon client;de 23 a 40 ans;celibataire;anc. de 6  a 12 ans;de 10 a 100KF epargn;employe;plus de 100  debits;540;735
+I192;bon client;plus de 50 ans;divorce;anc. 1 an  ou moins;moins de 10KF epargn;employe;moins de 40  debits;455;650
+I193;bon client;plus de 50 ans;marie;anc. plus   12 ans;plus de 100KF epargn;cadre;plus de 100  debits;875;860
+I194;mauvais client;moins de 23 ans;celibataire;anc. 1 an  ou moins;pas d'epargne;employe;plus de 100  debits;460;120
+I195;mauvais client;plus de 50 ans;marie;anc. de 1  a 4 ans;pas d'epargne;employe;plus de 100  debits;515;285
+I196;bon client;moins de 23 ans;marie;anc. de 4  a 6 ans;de 10 a 100KF epargn;employe;moins de 40  debits;560;800
+I197;bon client;de 40 a 50 ans;marie;anc. de 6  a 12 ans;pas d'epargne;employe;moins de 40  debits;860;665
+I198;bon client;plus de 50 ans;marie;anc. de 6  a 12 ans;pas d'epargne;cadre;moins de 40  debits;920;715
+I199;mauvais client;de 40 a 50 ans;marie;anc. de 4  a 6 ans;pas d'epargne;cadre;plus de 100  debits;745;240
+I200;mauvais client;moins de 23 ans;celibataire;anc. de 4  a 6 ans;pas d'epargne;autre;plus de 100  debits;445;255
+I201;bon client;de 40 a 50 ans;marie;anc. de 4  a 6 ans;pas d'epargne;employe;de 40 a 100  debits;575;565
+I202;bon client;de 23 a 40 ans;marie;anc. de 1  a 4 ans;pas d'epargne;autre;moins de 40  debits;345;540
+I203;bon client;moins de 23 ans;celibataire;anc. de 4  a 6 ans;pas d'epargne;autre;moins de 40  debits;475;550
+I204;bon client;plus de 50 ans;marie;anc. plus   12 ans;pas d'epargne;autre;de 40 a 100  debits;650;560
+I205;bon client;plus de 50 ans;marie;anc. plus   12 ans;pas d'epargne;cadre;de 40 a 100  debits;715;675
+I206;mauvais client;de 23 a 40 ans;celibataire;anc. de 6  a 12 ans;de 10 a 100KF epargn;autre;plus de 100  debits;405;700
+I207;bon client;de 40 a 50 ans;marie;anc. 1 an  ou moins;pas d'epargne;autre;de 40 a 100  debits;685;495
+I208;bon client;de 23 a 40 ans;celibataire;anc. de 1  a 4 ans;pas d'epargne;autre;plus de 100  debits;270;175
+I209;mauvais client;de 23 a 40 ans;marie;anc. de 4  a 6 ans;pas d'epargne;employe;de 40 a 100  debits;600;460
+I210;bon client;de 40 a 50 ans;celibataire;anc. de 4  a 6 ans;pas d'epargne;employe;plus de 100  debits;515;405
+I211;bon client;de 23 a 40 ans;celibataire;anc. de 1  a 4 ans;pas d'epargne;employe;plus de 100  debits;450;475
+I212;bon client;plus de 50 ans;celibataire;anc. plus   12 ans;pas d'epargne;employe;de 40 a 100  debits;815;505
+I213;mauvais client;de 40 a 50 ans;divorce;anc. 1 an  ou moins;pas d'epargne;employe;plus de 100  debits;450;355
+I214;bon client;de 23 a 40 ans;celibataire;anc. de 6  a 12 ans;de 10 a 100KF epargn;autre;de 40 a 100  debits;420;800
+I215;bon client;plus de 50 ans;celibataire;anc. de 4  a 6 ans;pas d'epargne;cadre;de 40 a 100  debits;745;490
+I216;bon client;plus de 50 ans;divorce;anc. 1 an  ou moins;moins de 10KF epargn;employe;de 40 a 100  debits;345;670
+I217;bon client;de 23 a 40 ans;celibataire;anc. de 6  a 12 ans;pas d'epargne;employe;moins de 40  debits;545;670
+I218;bon client;plus de 50 ans;divorce;anc. de 6  a 12 ans;pas d'epargne;employe;moins de 40  debits;740;700
+I219;bon client;plus de 50 ans;marie;anc. plus   12 ans;pas d'epargne;cadre;moins de 40  debits;735;670
+I220;bon client;moins de 23 ans;celibataire;anc. de 6  a 12 ans;pas d'epargne;autre;moins de 40  debits;625;660
+I221;bon client;plus de 50 ans;divorce;anc. 1 an  ou moins;pas d'epargne;cadre;moins de 40  debits;630;550
+I222;bon client;plus de 50 ans;marie;anc. plus   12 ans;pas d'epargne;autre;moins de 40  debits;745;740
+I223;bon client;de 23 a 40 ans;marie;anc. 1 an  ou moins;moins de 10KF epargn;employe;de 40 a 100  debits;815;665
+I224;bon client;de 23 a 40 ans;marie;anc. de 4  a 6 ans;pas d'epargne;employe;moins de 40  debits;485;620
+I225;bon client;de 40 a 50 ans;marie;anc. plus   12 ans;pas d'epargne;employe;de 40 a 100  debits;655;675
+I226;bon client;plus de 50 ans;veuf;anc. plus   12 ans;pas d'epargne;cadre;de 40 a 100  debits;770;665
+I227;bon client;de 40 a 50 ans;marie;anc. de 4  a 6 ans;pas d'epargne;employe;moins de 40  debits;860;640
+I228;bon client;de 40 a 50 ans;marie;anc. de 4  a 6 ans;pas d'epargne;employe;moins de 40  debits;515;590
+I229;bon client;plus de 50 ans;marie;anc. 1 an  ou moins;pas d'epargne;employe;moins de 40  debits;495;470
+I230;bon client;de 23 a 40 ans;celibataire;anc. de 6  a 12 ans;pas d'epargne;employe;de 40 a 100  debits;575;655
+I231;mauvais client;de 40 a 50 ans;divorce;anc. 1 an  ou moins;pas d'epargne;autre;de 40 a 100  debits;575;440
+I232;bon client;de 40 a 50 ans;marie;anc. 1 an  ou moins;de 10 a 100KF epargn;employe;de 40 a 100  debits;650;650
+I233;mauvais client;moins de 23 ans;celibataire;anc. de 4  a 6 ans;pas d'epargne;employe;plus de 100  debits;295;155
+I234;mauvais client;plus de 50 ans;marie;anc. de 1  a 4 ans;pas d'epargne;autre;moins de 40  debits;500;600
+I235;bon client;de 23 a 40 ans;marie;anc. de 1  a 4 ans;moins de 10KF epargn;autre;de 40 a 100  debits;355;610
+I236;bon client;moins de 23 ans;veuf;anc. de 4  a 6 ans;pas d'epargne;autre;moins de 40  debits;455;615
+I237;bon client;plus de 50 ans;marie;anc. plus   12 ans;pas d'epargne;cadre;moins de 40  debits;635;670
+I238;bon client;de 40 a 50 ans;marie;anc. plus   12 ans;pas d'epargne;autre;moins de 40  debits;570;735
+I239;bon client;plus de 50 ans;celibataire;anc. de 6  a 12 ans;pas d'epargne;cadre;de 40 a 100  debits;920;615
+I240;bon client;de 23 a 40 ans;divorce;anc. de 1  a 4 ans;pas d'epargne;autre;plus de 100  debits;310;295
+I241;bon client;de 40 a 50 ans;marie;anc. plus   12 ans;de 10 a 100KF epargn;cadre;de 40 a 100  debits;745;790
+I242;bon client;plus de 50 ans;marie;anc. de 4  a 6 ans;pas d'epargne;cadre;de 40 a 100  debits;655;325
+I243;bon client;plus de 50 ans;marie;anc. 1 an  ou moins;moins de 10KF epargn;autre;de 40 a 100  debits;515;555
+I244;bon client;plus de 50 ans;marie;anc. plus   12 ans;pas d'epargne;employe;plus de 100  debits;695;665
+I245;mauvais client;de 40 a 50 ans;divorce;anc. de 4  a 6 ans;pas d'epargne;employe;moins de 40  debits;505;385
+I246;bon client;de 40 a 50 ans;marie;anc. plus   12 ans;pas d'epargne;autre;de 40 a 100  debits;410;625
+I247;mauvais client;moins de 23 ans;celibataire;anc. 1 an  ou moins;pas d'epargne;employe;de 40 a 100  debits;295;350
+I248;bon client;de 23 a 40 ans;celibataire;anc. 1 an  ou moins;pas d'epargne;employe;plus de 100  debits;315;435
+I249;mauvais client;de 40 a 50 ans;divorce;anc. 1 an  ou moins;pas d'epargne;autre;plus de 100  debits;395;315
+I250;mauvais client;de 23 a 40 ans;marie;anc. 1 an  ou moins;pas d'epargne;cadre;moins de 40  debits;515;410
+I251;bon client;moins de 23 ans;celibataire;anc. de 4  a 6 ans;pas d'epargne;autre;moins de 40  debits;350;585
+I252;bon client;de 23 a 40 ans;marie;anc. de 4  a 6 ans;pas d'epargne;employe;moins de 40  debits;780;620
+I253;mauvais client;de 23 a 40 ans;celibataire;anc. 1 an  ou moins;pas d'epargne;employe;moins de 40  debits;450;435
+I254;mauvais client;plus de 50 ans;celibataire;anc. 1 an  ou moins;moins de 10KF epargn;employe;plus de 100  debits;520;480
+I255;mauvais client;de 40 a 50 ans;celibataire;anc. 1 an  ou moins;pas d'epargne;autre;de 40 a 100  debits;495;380
+I256;bon client;de 40 a 50 ans;marie;anc. 1 an  ou moins;pas d'epargne;autre;moins de 40  debits;235;520
+I257;mauvais client;moins de 23 ans;marie;anc. de 6  a 12 ans;pas d'epargne;employe;moins de 40  debits;360;655
+I258;bon client;de 40 a 50 ans;marie;anc. 1 an  ou moins;pas d'epargne;autre;moins de 40  debits;440;600
+I259;bon client;de 23 a 40 ans;divorce;anc. plus   12 ans;pas d'epargne;employe;moins de 40  debits;300;695
+I260;bon client;de 40 a 50 ans;celibataire;anc. 1 an  ou moins;plus de 100KF epargn;cadre;moins de 40  debits;790;715
+I261;mauvais client;de 40 a 50 ans;divorce;anc. de 1  a 4 ans;pas d'epargne;employe;de 40 a 100  debits;260;335
+I262;bon client;moins de 23 ans;celibataire;anc. de 1  a 4 ans;pas d'epargne;employe;de 40 a 100  debits;455;360
+I263;mauvais client;de 40 a 50 ans;marie;anc. de 1  a 4 ans;pas d'epargne;employe;moins de 40  debits;690;475
+I264;mauvais client;moins de 23 ans;celibataire;anc. 1 an  ou moins;pas d'epargne;autre;moins de 40  debits;210;450
+I265;bon client;plus de 50 ans;marie;anc. de 6  a 12 ans;pas d'epargne;employe;moins de 40  debits;805;720
+I266;bon client;de 23 a 40 ans;marie;anc. de 4  a 6 ans;pas d'epargne;employe;plus de 100  debits;565;395
+I267;bon client;de 23 a 40 ans;marie;anc. 1 an  ou moins;pas d'epargne;employe;plus de 100  debits;745;460
+I268;mauvais client;moins de 23 ans;celibataire;anc. 1 an  ou moins;pas d'epargne;autre;moins de 40  debits;320;335
+I269;bon client;moins de 23 ans;celibataire;anc. de 4  a 6 ans;de 10 a 100KF epargn;employe;moins de 40  debits;585;760
+I270;bon client;moins de 23 ans;divorce;anc. 1 an  ou moins;pas d'epargne;autre;moins de 40  debits;180;385
+I271;bon client;de 40 a 50 ans;marie;anc. 1 an  ou moins;pas d'epargne;employe;moins de 40  debits;435;520
+I272;bon client;de 40 a 50 ans;marie;anc. plus   12 ans;pas d'epargne;employe;de 40 a 100  debits;690;705
+I273;bon client;de 40 a 50 ans;marie;anc. 1 an  ou moins;pas d'epargne;employe;moins de 40  debits;445;570
+I274;bon client;de 23 a 40 ans;marie;anc. 1 an  ou moins;pas d'epargne;cadre;moins de 40  debits;535;545
+I275;bon client;plus de 50 ans;marie;anc. plus   12 ans;pas d'epargne;autre;moins de 40  debits;770;705
+I276;bon client;de 40 a 50 ans;celibataire;anc. 1 an  ou moins;pas d'epargne;autre;moins de 40  debits;335;455
+I277;bon client;moins de 23 ans;celibataire;anc. de 4  a 6 ans;pas d'epargne;autre;plus de 100  debits;275;445
+I278;bon client;plus de 50 ans;divorce;anc. plus   12 ans;pas d'epargne;cadre;moins de 40  debits;575;670
+I279;bon client;plus de 50 ans;marie;anc. plus   12 ans;pas d'epargne;employe;moins de 40  debits;670;770
+I280;bon client;de 40 a 50 ans;marie;anc. plus   12 ans;pas d'epargne;employe;de 40 a 100  debits;815;705
+I281;bon client;plus de 50 ans;marie;anc. plus   12 ans;pas d'epargne;cadre;moins de 40  debits;805;655
+I282;bon client;moins de 23 ans;celibataire;anc. de 1  a 4 ans;pas d'epargne;employe;moins de 40  debits;570;505
+I283;bon client;plus de 50 ans;marie;anc. de 1  a 4 ans;de 10 a 100KF epargn;cadre;moins de 40  debits;795;740
+I284;bon client;moins de 23 ans;celibataire;anc. 1 an  ou moins;pas d'epargne;employe;de 40 a 100  debits;465;275
+I285;mauvais client;de 23 a 40 ans;divorce;anc. 1 an  ou moins;pas d'epargne;cadre;plus de 100  debits;455;50
+I286;mauvais client;de 40 a 50 ans;divorce;anc. de 4  a 6 ans;pas d'epargne;cadre;plus de 100  debits;670;375
+I287;mauvais client;de 40 a 50 ans;marie;anc. 1 an  ou moins;moins de 10KF epargn;autre;plus de 100  debits;620;555
+I288;bon client;de 40 a 50 ans;marie;anc. 1 an  ou moins;pas d'epargne;autre;moins de 40  debits;555;535
+I289;bon client;plus de 50 ans;marie;anc. plus   12 ans;pas d'epargne;employe;de 40 a 100  debits;860;680
+I290;mauvais client;de 40 a 50 ans;marie;anc. 1 an  ou moins;pas d'epargne;employe;de 40 a 100  debits;595;425
+I291;mauvais client;moins de 23 ans;celibataire;anc. 1 an  ou moins;pas d'epargne;employe;de 40 a 100  debits;295;300
+I292;bon client;plus de 50 ans;divorce;anc. 1 an  ou moins;de 10 a 100KF epargn;cadre;moins de 40  debits;815;725
+I293;bon client;plus de 50 ans;marie;anc. plus   12 ans;pas d'epargne;cadre;moins de 40  debits;945;735
+I294;bon client;de 40 a 50 ans;celibataire;anc. 1 an  ou moins;pas d'epargne;employe;moins de 40  debits;625;510
+I295;bon client;de 40 a 50 ans;marie;anc. de 4  a 6 ans;pas d'epargne;autre;de 40 a 100  debits;660;610
+I296;bon client;moins de 23 ans;celibataire;anc. de 4  a 6 ans;pas d'epargne;employe;moins de 40  debits;385;535
+I297;bon client;moins de 23 ans;celibataire;anc. 1 an  ou moins;pas d'epargne;employe;moins de 40  debits;395;465
+I298;bon client;de 40 a 50 ans;marie;anc. de 6  a 12 ans;pas d'epargne;employe;de 40 a 100  debits;655;640
+I299;bon client;moins de 23 ans;celibataire;anc. de 4  a 6 ans;pas d'epargne;employe;de 40 a 100  debits;475;525
+I300;bon client;plus de 50 ans;marie;anc. 1 an  ou moins;de 10 a 100KF epargn;cadre;de 40 a 100  debits;920;685
+I301;bon client;de 40 a 50 ans;marie;anc. de 4  a 6 ans;pas d'epargne;employe;de 40 a 100  debits;450;580
+I302;bon client;de 23 a 40 ans;marie;anc. de 4  a 6 ans;moins de 10KF epargn;employe;moins de 40  debits;650;765
+I303;mauvais client;plus de 50 ans;divorce;anc. 1 an  ou moins;pas d'epargne;employe;moins de 40  debits;490;585
+I304;mauvais client;de 23 a 40 ans;marie;anc. de 1  a 4 ans;pas d'epargne;employe;plus de 100  debits;415;180
+I305;mauvais client;moins de 23 ans;celibataire;anc. 1 an  ou moins;pas d'epargne;employe;plus de 100  debits;400;200
+I306;mauvais client;de 23 a 40 ans;marie;anc. de 1  a 4 ans;pas d'epargne;employe;plus de 100  debits;470;210
+I307;mauvais client;moins de 23 ans;celibataire;anc. 1 an  ou moins;pas d'epargne;employe;plus de 100  debits;295;70
+I308;mauvais client;plus de 50 ans;marie;anc. plus   12 ans;pas d'epargne;cadre;plus de 100  debits;825;480
+I309;mauvais client;plus de 50 ans;veuf;anc. 1 an  ou moins;pas d'epargne;autre;de 40 a 100  debits;500;360
+I310;mauvais client;de 40 a 50 ans;marie;anc. plus   12 ans;pas d'epargne;employe;plus de 100  debits;435;420
+I311;mauvais client;plus de 50 ans;marie;anc. 1 an  ou moins;pas d'epargne;autre;plus de 100  debits;640;260
+I312;mauvais client;moins de 23 ans;celibataire;anc. 1 an  ou moins;pas d'epargne;autre;plus de 100  debits;300;255
+I313;mauvais client;de 23 a 40 ans;marie;anc. 1 an  ou moins;pas d'epargne;autre;plus de 100  debits;350;460
+I314;mauvais client;moins de 23 ans;celibataire;anc. 1 an  ou moins;pas d'epargne;autre;de 40 a 100  debits;300;340
+I315;mauvais client;de 40 a 50 ans;marie;anc. 1 an  ou moins;pas d'epargne;autre;plus de 100  debits;570;445
+I316;mauvais client;de 23 a 40 ans;celibataire;anc. de 1  a 4 ans;pas d'epargne;employe;plus de 100  debits;305;355
+I317;mauvais client;moins de 23 ans;celibataire;anc. 1 an  ou moins;pas d'epargne;autre;plus de 100  debits;320;265
+I318;mauvais client;plus de 50 ans;veuf;anc. 1 an  ou moins;pas d'epargne;cadre;plus de 100  debits;785;325
+I319;mauvais client;de 40 a 50 ans;marie;anc. 1 an  ou moins;pas d'epargne;autre;plus de 100  debits;635;335
+I320;mauvais client;de 40 a 50 ans;marie;anc. 1 an  ou moins;pas d'epargne;autre;moins de 40  debits;300;465
+I321;mauvais client;plus de 50 ans;celibataire;anc. de 1  a 4 ans;pas d'epargne;employe;de 40 a 100  debits;660;345
+I322;mauvais client;de 23 a 40 ans;marie;anc. 1 an  ou moins;pas d'epargne;employe;de 40 a 100  debits;415;340
+I323;mauvais client;moins de 23 ans;marie;anc. de 4  a 6 ans;pas d'epargne;employe;moins de 40  debits;545;490
+I324;mauvais client;plus de 50 ans;divorce;anc. 1 an  ou moins;pas d'epargne;cadre;de 40 a 100  debits;610;405
+I325;mauvais client;de 40 a 50 ans;celibataire;anc. 1 an  ou moins;pas d'epargne;employe;plus de 100  debits;420;420
+I326;mauvais client;plus de 50 ans;marie;anc. de 6  a 12 ans;pas d'epargne;autre;plus de 100  debits;875;395
+I327;mauvais client;de 40 a 50 ans;marie;anc. de 1  a 4 ans;de 10 a 100KF epargn;employe;plus de 100  debits;720;640
+I328;mauvais client;de 23 a 40 ans;marie;anc. 1 an  ou moins;moins de 10KF epargn;employe;plus de 100  debits;780;445
+I329;mauvais client;de 23 a 40 ans;marie;anc. de 1  a 4 ans;pas d'epargne;employe;moins de 40  debits;420;540
+I330;mauvais client;de 23 a 40 ans;celibataire;anc. 1 an  ou moins;pas d'epargne;employe;de 40 a 100  debits;435;390
+I331;mauvais client;de 40 a 50 ans;divorce;anc. 1 an  ou moins;pas d'epargne;autre;de 40 a 100  debits;395;440
+I332;mauvais client;de 40 a 50 ans;marie;anc. plus   12 ans;pas d'epargne;employe;de 40 a 100  debits;645;625
+I333;mauvais client;moins de 23 ans;marie;anc. 1 an  ou moins;pas d'epargne;employe;de 40 a 100  debits;630;440
+I334;mauvais client;de 40 a 50 ans;celibataire;anc. 1 an  ou moins;pas d'epargne;autre;moins de 40  debits;375;440
+I335;mauvais client;plus de 50 ans;divorce;anc. 1 an  ou moins;pas d'epargne;cadre;plus de 100  debits;455;190
+I336;mauvais client;de 40 a 50 ans;celibataire;anc. 1 an  ou moins;pas d'epargne;autre;moins de 40  debits;305;455
+I337;mauvais client;de 40 a 50 ans;marie;anc. 1 an  ou moins;pas d'epargne;autre;moins de 40  debits;365;520
+I338;mauvais client;moins de 23 ans;celibataire;anc. 1 an  ou moins;pas d'epargne;autre;moins de 40  debits;195;410
+I339;mauvais client;moins de 23 ans;celibataire;anc. 1 an  ou moins;pas d'epargne;autre;de 40 a 100  debits;370;405
+I340;mauvais client;plus de 50 ans;veuf;anc. de 1  a 4 ans;pas d'epargne;employe;de 40 a 100  debits;495;455
+I341;mauvais client;de 23 a 40 ans;celibataire;anc. 1 an  ou moins;pas d'epargne;autre;moins de 40  debits;325;375
+I342;mauvais client;moins de 23 ans;celibataire;anc. 1 an  ou moins;moins de 10KF epargn;employe;moins de 40  debits;435;540
+I343;mauvais client;moins de 23 ans;celibataire;anc. 1 an  ou moins;pas d'epargne;autre;de 40 a 100  debits;235;335
+I344;mauvais client;plus de 50 ans;divorce;anc. 1 an  ou moins;pas d'epargne;employe;moins de 40  debits;585;435
+I345;mauvais client;de 40 a 50 ans;marie;anc. 1 an  ou moins;pas d'epargne;cadre;plus de 100  debits;650;275
+I346;mauvais client;de 23 a 40 ans;marie;anc. 1 an  ou moins;pas d'epargne;autre;moins de 40  debits;265;500
+I347;mauvais client;moins de 23 ans;celibataire;anc. 1 an  ou moins;pas d'epargne;employe;moins de 40  debits;505;410
+I348;mauvais client;de 40 a 50 ans;celibataire;anc. 1 an  ou moins;moins de 10KF epargn;employe;moins de 40  debits;380;470
+I349;mauvais client;de 23 a 40 ans;celibataire;anc. de 6  a 12 ans;moins de 10KF epargn;employe;de 40 a 100  debits;470;665
+I350;mauvais client;de 23 a 40 ans;marie;anc. 1 an  ou moins;pas d'epargne;autre;moins de 40  debits;395;445
+I351;mauvais client;moins de 23 ans;celibataire;anc. 1 an  ou moins;pas d'epargne;autre;de 40 a 100  debits;265;230
+I352;mauvais client;de 23 a 40 ans;celibataire;anc. 1 an  ou moins;pas d'epargne;autre;moins de 40  debits;435;505
+I353;mauvais client;de 23 a 40 ans;celibataire;anc. de 1  a 4 ans;pas d'epargne;employe;de 40 a 100  debits;405;505
+I354;mauvais client;moins de 23 ans;celibataire;anc. de 1  a 4 ans;pas d'epargne;autre;de 40 a 100  debits;335;360
+I355;mauvais client;de 23 a 40 ans;celibataire;anc. de 4  a 6 ans;pas d'epargne;employe;de 40 a 100  debits;310;535
+I356;mauvais client;plus de 50 ans;divorce;anc. de 4  a 6 ans;pas d'epargne;employe;moins de 40  debits;610;575
+I357;mauvais client;moins de 23 ans;celibataire;anc. 1 an  ou moins;pas d'epargne;autre;moins de 40  debits;195;465
+I358;mauvais client;de 23 a 40 ans;divorce;anc. de 6  a 12 ans;pas d'epargne;autre;moins de 40  debits;355;570
+I359;mauvais client;moins de 23 ans;celibataire;anc. 1 an  ou moins;pas d'epargne;employe;moins de 40  debits;350;465
+I360;mauvais client;plus de 50 ans;marie;anc. 1 an  ou moins;pas d'epargne;cadre;de 40 a 100  debits;840;275
+I361;mauvais client;de 40 a 50 ans;marie;anc. plus   12 ans;pas d'epargne;autre;plus de 100  debits;780;540
+I362;mauvais client;de 23 a 40 ans;divorce;anc. de 4  a 6 ans;pas d'epargne;autre;plus de 100  debits;275;290
+I363;mauvais client;moins de 23 ans;celibataire;anc. de 4  a 6 ans;pas d'epargne;employe;plus de 100  debits;255;375
+I364;mauvais client;moins de 23 ans;celibataire;anc. 1 an  ou moins;pas d'epargne;employe;plus de 100  debits;325;335
+I365;mauvais client;de 23 a 40 ans;marie;anc. plus   12 ans;pas d'epargne;employe;plus de 100  debits;640;340
+I366;mauvais client;moins de 23 ans;celibataire;anc. 1 an  ou moins;pas d'epargne;autre;plus de 100  debits;295;205
+I367;mauvais client;plus de 50 ans;veuf;anc. 1 an  ou moins;pas d'epargne;autre;plus de 100  debits;375;320
+I368;mauvais client;de 23 a 40 ans;marie;anc. 1 an  ou moins;pas d'epargne;employe;plus de 100  debits;620;310
+I369;mauvais client;de 23 a 40 ans;celibataire;anc. 1 an  ou moins;pas d'epargne;autre;moins de 40  debits;225;365
+I370;mauvais client;plus de 50 ans;veuf;anc. 1 an  ou moins;pas d'epargne;cadre;moins de 40  debits;515;535
+I371;mauvais client;de 23 a 40 ans;marie;anc. 1 an  ou moins;pas d'epargne;employe;moins de 40  debits;370;330
+I372;mauvais client;de 23 a 40 ans;divorce;anc. 1 an  ou moins;pas d'epargne;autre;plus de 100  debits;160;350
+I373;mauvais client;moins de 23 ans;divorce;anc. 1 an  ou moins;pas d'epargne;employe;moins de 40  debits;265;300
+I374;mauvais client;de 23 a 40 ans;celibataire;anc. de 4  a 6 ans;pas d'epargne;employe;plus de 100  debits;465;340
+I375;mauvais client;de 40 a 50 ans;divorce;anc. 1 an  ou moins;pas d'epargne;employe;moins de 40  debits;385;445
+I376;mauvais client;moins de 23 ans;celibataire;anc. de 4  a 6 ans;pas d'epargne;employe;plus de 100  debits;325;140
+I377;mauvais client;de 40 a 50 ans;marie;anc. 1 an  ou moins;pas d'epargne;autre;de 40 a 100  debits;580;405
+I378;mauvais client;plus de 50 ans;celibataire;anc. de 6  a 12 ans;pas d'epargne;autre;de 40 a 100  debits;570;520
+I379;mauvais client;moins de 23 ans;celibataire;anc. de 4  a 6 ans;pas d'epargne;autre;plus de 100  debits;330;260
+I380;mauvais client;de 23 a 40 ans;marie;anc. 1 an  ou moins;pas d'epargne;autre;plus de 100  debits;565;220
+I381;mauvais client;moins de 23 ans;marie;anc. de 6  a 12 ans;pas d'epargne;autre;plus de 100  debits;570;475
+I382;mauvais client;de 23 a 40 ans;marie;anc. de 1  a 4 ans;pas d'epargne;employe;plus de 100  debits;290;300
+I383;mauvais client;de 23 a 40 ans;marie;anc. 1 an  ou moins;pas d'epargne;employe;plus de 100  debits;500;290
+I384;mauvais client;de 23 a 40 ans;marie;anc. de 1  a 4 ans;pas d'epargne;autre;plus de 100  debits;270;315
+I385;mauvais client;de 23 a 40 ans;marie;anc. de 6  a 12 ans;pas d'epargne;employe;de 40 a 100  debits;735;580
+I386;mauvais client;de 40 a 50 ans;divorce;anc. de 4  a 6 ans;pas d'epargne;cadre;plus de 100  debits;640;320
+I387;mauvais client;de 23 a 40 ans;celibataire;anc. 1 an  ou moins;moins de 10KF epargn;employe;plus de 100  debits;575;370
+I388;mauvais client;plus de 50 ans;marie;anc. plus   12 ans;pas d'epargne;autre;plus de 100  debits;730;475
+I389;mauvais client;de 23 a 40 ans;marie;anc. 1 an  ou moins;pas d'epargne;autre;moins de 40  debits;495;430
+I390;mauvais client;de 40 a 50 ans;marie;anc. 1 an  ou moins;pas d'epargne;autre;de 40 a 100  debits;420;405
+I391;mauvais client;de 23 a 40 ans;marie;anc. de 1  a 4 ans;pas d'epargne;autre;de 40 a 100  debits;420;460
+I392;mauvais client;de 23 a 40 ans;marie;anc. de 4  a 6 ans;pas d'epargne;autre;moins de 40  debits;575;550
+I393;mauvais client;moins de 23 ans;celibataire;anc. 1 an  ou moins;pas d'epargne;employe;moins de 40  debits;265;450
+I394;mauvais client;de 23 a 40 ans;marie;anc. de 6  a 12 ans;de 10 a 100KF epargn;employe;de 40 a 100  debits;530;825
+I395;mauvais client;de 40 a 50 ans;marie;anc. 1 an  ou moins;pas d'epargne;autre;plus de 100  debits;280;295
+I396;mauvais client;moins de 23 ans;celibataire;anc. 1 an  ou moins;pas d'epargne;autre;de 40 a 100  debits;290;335
+I397;mauvais client;plus de 50 ans;marie;anc. plus   12 ans;moins de 10KF epargn;employe;plus de 100  debits;855;740
+I398;mauvais client;moins de 23 ans;celibataire;anc. de 1  a 4 ans;pas d'epargne;autre;de 40 a 100  debits;275;240
+I399;mauvais client;moins de 23 ans;celibataire;anc. 1 an  ou moins;pas d'epargne;autre;de 40 a 100  debits;265;350
+I400;mauvais client;de 23 a 40 ans;marie;anc. de 4  a 6 ans;moins de 10KF epargn;autre;plus de 100  debits;270;570
+I401;mauvais client;de 40 a 50 ans;marie;anc. de 1  a 4 ans;pas d'epargne;autre;de 40 a 100  debits;335;480
+I402;mauvais client;de 23 a 40 ans;celibataire;anc. 1 an  ou moins;pas d'epargne;employe;plus de 100  debits;340;360
+I403;mauvais client;plus de 50 ans;marie;anc. plus   12 ans;moins de 10KF epargn;cadre;plus de 100  debits;700;760
+I404;mauvais client;de 40 a 50 ans;marie;anc. 1 an  ou moins;pas d'epargne;employe;plus de 100  debits;745;290
+I405;mauvais client;plus de 50 ans;divorce;anc. de 4  a 6 ans;pas d'epargne;employe;de 40 a 100  debits;600;550
+I406;mauvais client;de 23 a 40 ans;divorce;anc. de 4  a 6 ans;pas d'epargne;employe;plus de 100  debits;385;205
+I407;mauvais client;de 23 a 40 ans;divorce;anc. de 6  a 12 ans;pas d'epargne;employe;de 40 a 100  debits;530;565
+I408;mauvais client;plus de 50 ans;veuf;anc. plus   12 ans;pas d'epargne;autre;plus de 100  debits;485;565
+I409;mauvais client;moins de 23 ans;celibataire;anc. de 1  a 4 ans;moins de 10KF epargn;autre;plus de 100  debits;350;285
+I410;mauvais client;de 40 a 50 ans;veuf;anc. 1 an  ou moins;moins de 10KF epargn;employe;plus de 100  debits;555;455
+I411;mauvais client;moins de 23 ans;celibataire;anc. de 4  a 6 ans;pas d'epargne;cadre;de 40 a 100  debits;375;250
+I412;mauvais client;moins de 23 ans;marie;anc. 1 an  ou moins;pas d'epargne;autre;moins de 40  debits;295;420
+I413;mauvais client;de 23 a 40 ans;marie;anc. 1 an  ou moins;pas d'epargne;autre;de 40 a 100  debits;610;305
+I414;mauvais client;de 40 a 50 ans;marie;anc. plus   12 ans;pas d'epargne;autre;de 40 a 100  debits;755;590
+I415;mauvais client;de 40 a 50 ans;divorce;anc. de 6  a 12 ans;pas d'epargne;autre;plus de 100  debits;520;500
+I416;mauvais client;moins de 23 ans;celibataire;anc. 1 an  ou moins;pas d'epargne;autre;moins de 40  debits;245;450
+I417;mauvais client;de 23 a 40 ans;celibataire;anc. de 6  a 12 ans;pas d'epargne;employe;plus de 100  debits;525;490
+I418;mauvais client;de 23 a 40 ans;celibataire;anc. de 6  a 12 ans;pas d'epargne;employe;plus de 100  debits;440;370
+I419;mauvais client;de 40 a 50 ans;marie;anc. 1 an  ou moins;pas d'epargne;autre;de 40 a 100  debits;530;475
+I420;mauvais client;plus de 50 ans;marie;anc. 1 an  ou moins;pas d'epargne;autre;moins de 40  debits;575;525
+I421;mauvais client;plus de 50 ans;celibataire;anc. de 6  a 12 ans;pas d'epargne;autre;plus de 100  debits;580;475
+I422;mauvais client;moins de 23 ans;celibataire;anc. de 6  a 12 ans;de 10 a 100KF epargn;employe;de 40 a 100  debits;505;805
+I423;mauvais client;moins de 23 ans;celibataire;anc. 1 an  ou moins;pas d'epargne;autre;plus de 100  debits;325;255
+I424;mauvais client;de 23 a 40 ans;divorce;anc. 1 an  ou moins;pas d'epargne;autre;de 40 a 100  debits;425;350
+I425;mauvais client;moins de 23 ans;celibataire;anc. 1 an  ou moins;pas d'epargne;autre;plus de 100  debits;195;375
+I426;mauvais client;de 40 a 50 ans;marie;anc. 1 an  ou moins;pas d'epargne;autre;de 40 a 100  debits;330;460
+I427;mauvais client;de 40 a 50 ans;celibataire;anc. 1 an  ou moins;pas d'epargne;employe;de 40 a 100  debits;260;330
+I428;mauvais client;de 23 a 40 ans;celibataire;anc. de 6  a 12 ans;moins de 10KF epargn;cadre;plus de 100  debits;675;680
+I429;mauvais client;moins de 23 ans;celibataire;anc. de 4  a 6 ans;pas d'epargne;employe;de 40 a 100  debits;355;200
+I430;mauvais client;de 23 a 40 ans;celibataire;anc. 1 an  ou moins;pas d'epargne;autre;de 40 a 100  debits;285;430
+I431;mauvais client;de 23 a 40 ans;marie;anc. 1 an  ou moins;pas d'epargne;employe;de 40 a 100  debits;510;455
+I432;mauvais client;de 40 a 50 ans;celibataire;anc. 1 an  ou moins;pas d'epargne;cadre;de 40 a 100  debits;800;295
+I433;mauvais client;de 23 a 40 ans;marie;anc. 1 an  ou moins;pas d'epargne;employe;plus de 100  debits;470;290
+I434;mauvais client;de 40 a 50 ans;divorce;anc. 1 an  ou moins;pas d'epargne;employe;de 40 a 100  debits;200;320
+I435;mauvais client;de 23 a 40 ans;celibataire;anc. de 6  a 12 ans;pas d'epargne;employe;de 40 a 100  debits;390;470
+I436;mauvais client;de 23 a 40 ans;divorce;anc. 1 an  ou moins;pas d'epargne;autre;plus de 100  debits;410;200
+I437;mauvais client;de 23 a 40 ans;celibataire;anc. de 4  a 6 ans;pas d'epargne;employe;de 40 a 100  debits;465;535
+I438;mauvais client;de 40 a 50 ans;celibataire;anc. de 1  a 4 ans;pas d'epargne;autre;plus de 100  debits;330;255
+I439;mauvais client;moins de 23 ans;divorce;anc. de 1  a 4 ans;moins de 10KF epargn;employe;plus de 100  debits;355;585
+I440;mauvais client;de 23 a 40 ans;marie;anc. 1 an  ou moins;pas d'epargne;employe;plus de 100  debits;385;200
+I441;mauvais client;moins de 23 ans;celibataire;anc. 1 an  ou moins;pas d'epargne;autre;moins de 40  debits;240;465
+I442;mauvais client;moins de 23 ans;celibataire;anc. 1 an  ou moins;pas d'epargne;autre;moins de 40  debits;235;450
+I443;mauvais client;de 40 a 50 ans;marie;anc. 1 an  ou moins;pas d'epargne;cadre;plus de 100  debits;600;340
+I444;mauvais client;plus de 50 ans;marie;anc. 1 an  ou moins;pas d'epargne;cadre;de 40 a 100  debits;695;375
+I445;mauvais client;de 40 a 50 ans;celibataire;anc. de 1  a 4 ans;pas d'epargne;employe;plus de 100  debits;580;390
+I446;mauvais client;de 23 a 40 ans;divorce;anc. 1 an  ou moins;pas d'epargne;employe;moins de 40  debits;525;495
+I447;mauvais client;moins de 23 ans;celibataire;anc. 1 an  ou moins;pas d'epargne;autre;de 40 a 100  debits;315;335
+I448;mauvais client;de 23 a 40 ans;marie;anc. 1 an  ou moins;pas d'epargne;autre;plus de 100  debits;365;275
+I449;mauvais client;plus de 50 ans;marie;anc. plus   12 ans;moins de 10KF epargn;cadre;plus de 100  debits;690;520
+I450;mauvais client;de 40 a 50 ans;celibataire;anc. de 4  a 6 ans;pas d'epargne;employe;de 40 a 100  debits;315;335
+I451;mauvais client;de 23 a 40 ans;marie;anc. 1 an  ou moins;pas d'epargne;employe;plus de 100  debits;290;105
+I452;mauvais client;de 40 a 50 ans;marie;anc. 1 an  ou moins;moins de 10KF epargn;autre;de 40 a 100  debits;355;545
+I453;mauvais client;plus de 50 ans;marie;anc. 1 an  ou moins;pas d'epargne;autre;plus de 100  debits;680;295
+I454;mauvais client;de 23 a 40 ans;celibataire;anc. 1 an  ou moins;pas d'epargne;autre;de 40 a 100  debits;195;375
+I455;mauvais client;de 23 a 40 ans;celibataire;anc. 1 an  ou moins;pas d'epargne;employe;de 40 a 100  debits;615;430
+I456;mauvais client;plus de 50 ans;marie;anc. plus   12 ans;pas d'epargne;cadre;plus de 100  debits;670;480
+I457;mauvais client;plus de 50 ans;divorce;anc. 1 an  ou moins;pas d'epargne;cadre;moins de 40  debits;625;415
+I458;mauvais client;de 40 a 50 ans;celibataire;anc. 1 an  ou moins;pas d'epargne;employe;de 40 a 100  debits;315;265
+I459;mauvais client;de 23 a 40 ans;divorce;anc. 1 an  ou moins;pas d'epargne;cadre;moins de 40  debits;475;390
+I460;mauvais client;de 23 a 40 ans;celibataire;anc. 1 an  ou moins;pas d'epargne;autre;moins de 40  debits;270;435
+I461;mauvais client;de 23 a 40 ans;marie;anc. 1 an  ou moins;pas d'epargne;employe;moins de 40  debits;350;385
+I462;mauvais client;moins de 23 ans;celibataire;anc. 1 an  ou moins;pas d'epargne;autre;moins de 40  debits;250;450
+I463;mauvais client;plus de 50 ans;veuf;anc. plus   12 ans;moins de 10KF epargn;cadre;de 40 a 100  debits;805;740
+I464;mauvais client;de 23 a 40 ans;celibataire;anc. 1 an  ou moins;moins de 10KF epargn;employe;de 40 a 100  debits;330;370
+I465;mauvais client;plus de 50 ans;marie;anc. 1 an  ou moins;pas d'epargne;cadre;moins de 40  debits;765;360
+I466;mauvais client;plus de 50 ans;marie;anc. 1 an  ou moins;pas d'epargne;employe;moins de 40  debits;945;455
+I467;mauvais client;plus de 50 ans;marie;anc. plus   12 ans;pas d'epargne;cadre;plus de 100  debits;830;645
+I468;mauvais client;de 40 a 50 ans;marie;anc. 1 an  ou moins;pas d'epargne;autre;moins de 40  debits;375;570

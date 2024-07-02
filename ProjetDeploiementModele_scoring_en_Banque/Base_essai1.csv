@@ -1,0 +1,6 @@
+tranche_age,statut_matrimonial,anciennete,tranche_epargne,profession,cumul_credit,salaire,credit_demande
+plus de 50 ans,celibataire,anc. plus 12 ans,pas d'epargne,employe,de 40 a 100 debits,765,700
+moins de 23 ans,celibataire,anc. 1 an ou moins,pas d'epargne,employe,moins de 40 debits,465,465
+de 23 a 40 ans,veuf,anc. de 6 a 12 ans,pas d'epargne,employe,de 40 a 100 debits,680,555
+de 23 a 40 ans,divorce,anc. de 1 a 4 ans,moins de 10KF epargn,employe,de 40 a 100 debits,560,640
+moins de 23 ans,celibataire,anc. de 6 a 12 ans,pas d'epargne,employe,moins de 40 debits,575,570

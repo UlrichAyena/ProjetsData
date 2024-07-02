@@ -1,0 +1,21 @@
+tranche_age,statut_matrimonial,anciennete,tranche_epargne,profession,cumul_credit,salaire,credit_demande
+de 23 a 40 ans,celibataire,anc. 1 an ou moins,pas d'epargne,employe,de 40 a 100 debits,600,700
+plus de 50 ans,marie,anc. plus 12 ans,pas d'epargne,cadre,moins de 40 debits,800,600
+de 40 a 50 ans,divorce,anc. de 4 a 6 ans,moins de 10KF epargn,employe,de 40 a 100 debits,700,750
+moins de 23 ans,celibataire,anc. de 1 a 4 ans,pas d'epargne,autre,de 40 a 100 debits,400,300
+de 23 a 40 ans,marie,anc. plus 12 ans,moins de 10KF epargn,employe,plus de 100 debits,750,850
+de 40 a 50 ans,celibataire,anc. 1 an ou moins,pas d'epargne,cadre,de 40 a 100 debits,900,700
+plus de 50 ans,divorce,anc. de 6 a 12 ans,pas d'epargne,employe,moins de 40 debits,500,450
+de 23 a 40 ans,celibataire,anc. de 6 a 12 ans,plus de 100KF epargn,employe,plus de 100 debits,600,800
+plus de 50 ans,veuf,anc. 1 an ou moins,moins de 10KF epargn,employe,de 40 a 100 debits,700,600
+de 23 a 40 ans,marie,anc. de 4 a 6 ans,pas d'epargne,cadre,plus de 100 debits,800,900
+moins de 23 ans,divorce,anc. plus 12 ans,pas d'epargne,autre,moins de 40 debits,400,350
+de 40 a 50 ans,marie,anc. 1 an ou moins,de 10 a 100KF epargn,employe,de 40 a 100 debits,800,700
+plus de 50 ans,celibataire,anc. de 4 a 6 ans,moins de 10KF epargn,cadre,plus de 100 debits,850,750
+de 23 a 40 ans,divorce,anc. plus 12 ans,pas d'epargne,employe,moins de 40 debits,500,400
+de 40 a 50 ans,celibataire,anc. de 6 a 12 ans,pas d'epargne,autre,de 40 a 100 debits,600,700
+de 23 a 40 ans,marie,anc. de 1 a 4 ans,pas d'epargne,employe,plus de 100 debits,700,600
+plus de 50 ans,marie,anc. plus 12 ans,de 10 a 100KF epargn,employe,de 40 a 100 debits,900,800
+moins de 23 ans,celibataire,anc. de 6 a 12 ans,pas d'epargne,autre,moins de 40 debits,400,350
+de 40 a 50 ans,marie,anc. plus 12 ans,pas d'epargne,employe,de 40 a 100 debits,800,600
+plus de 50 ans,divorce,anc. 1 an ou moins,plus de 100KF epargn,cadre,de 40 a 100 debits,950,850
