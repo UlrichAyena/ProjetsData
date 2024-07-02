@@ -1,0 +1,7 @@
+__pycache__
+ .env
+# Environnement virtuel Python
+scoring_fastapi
+# Ne pas ignorer certains fichiers Python spécifiques
+!ProjetDeploiementModele_scoring_en_Banque/app_streamlit.py
+!ProjetDeploiementModele_scoring_en_Banque/main_fast.py
