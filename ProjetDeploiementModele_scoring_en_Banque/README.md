@@ -14,7 +14,7 @@
  ##### Streamlit 
   - streamlit run app_streamlit.py 
 
-  Voici le lien final de l'application : 
+  Voici le lien final de l'application : **https://deploying-ml-fastapi-ayena-ulrich.streamlit.app/**
 
 
   FastAPI
